@@ -1,5 +1,7 @@
-# Build a Reusable Component with Angular Elements
+# Building Reusable Components with Angular Elements
 
-Now you have a single file that you can distribute and reuse to add a login component to any web application.
+Want to build a component and use it in whichever framework you want from Angular, React, Vue or how about just plain old HTML/JS?
 
-Whether that app is written in Angular, React, Vue, or just plain old HTML and JavaScript.
+## Angular
+
+This project was generated with Angular CLI version 6.0.0.
